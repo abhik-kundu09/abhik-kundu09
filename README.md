@@ -36,7 +36,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20a%20weapon%20forged%20with%20intent.&author=Abhik%20Kundu" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20not%20just%20logic%20%E2%80%94%20it%27s%20a%20weapon%20forged%20with%20intent.&author=A%20Coder" />
 </div>
 
 ---
