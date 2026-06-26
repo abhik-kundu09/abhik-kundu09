@@ -20,10 +20,6 @@
     <img src="https://img.shields.io/badge/Gmail-FF2222?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
   &nbsp;
-  <a href="https://abhik-kundu.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF2222?style=for-the-badge&logo=vercel&logoColor=000000" />
-  </a>
-  &nbsp;
   <a href="https://instagram.com/_its_abhik_01">
     <img src="https://img.shields.io/badge/Instagram-FF2222?style=for-the-badge&logo=instagram&logoColor=000000" />
   </a>
