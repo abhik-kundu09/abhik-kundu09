@@ -41,7 +41,7 @@
 
 I'm a **3rd-year Computer Science & Engineering student** majoring in **Artificial Intelligence & Machine Learning** at **KIIT University**. I build systems that sit at the boundary of intelligent data modeling and production-ready full-stack engineering.
 
-No fluff. Just ships.
+
 
 | | |
 |---|---|
@@ -179,29 +179,11 @@ Stack     → pure HTML · CSS · Vanilla JS
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhik-kundu09&show_icons=true&theme=dark&bg_color=0d0000&title_color=FF2222&icon_color=FF2222&text_color=ffffff&border_color=8b0000&border_radius=6" height="165" />
-&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhik-kundu09&layout=compact&theme=dark&bg_color=0d0000&title_color=FF2222&text_color=ffffff&border_color=8b0000&border_radius=6" height="165" />
 
-<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhik-kundu09&theme=blood-dark&background=0d0000&ring=FF2222&fire=CC0000&currStreakLabel=FF2222&sideLabels=FF2222&dates=888888&stroke=8b0000&border=8b0000" height="165" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhik-kundu09&bg_color=0d0000&color=FF2222&line=CC0000&point=FF2222&area=true&area_color=3a0000&hide_border=false&border_color=8b0000&radius=6" width="100%" />
-</div>
-
----
 
 <div align="center">
 
